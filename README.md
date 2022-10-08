@@ -1,2 +1,2 @@
-# CPP-Programming-InterviewQueastions
+# CPP-Programming-InterviewQuestions
 This Repository contains all the common C++ Progrraming Interview Questions, there expalnation with code. Download the excel file Programming-Questions for details of programs IQ1, IQ2........
